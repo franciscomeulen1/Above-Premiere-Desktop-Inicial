@@ -1,0 +1,11 @@
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\AbovePremiere.exe.config
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\AbovePremiere.exe
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\AbovePremiere.pdb
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.Properties.Resources.resources
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.exe
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.pdb
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.forms.FormInicio.resources
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.FormInicioSesion.resources
