@@ -1,0 +1,16 @@
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\AbovePremiere.exe.config
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\AbovePremiere.exe
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\AbovePremiere.pdb
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\Newtonsoft.Json.dll
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\RestSharp.dll
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\Newtonsoft.Json.xml
+C:\Users\franc\source\repos\AbovePremiere\bin\Release\RestSharp.xml
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.csproj.AssemblyReference.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.forms.FormInicio.resources
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.FormInicioSesion.resources
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.Properties.Resources.resources
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.csproj.GenerateResource.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.csproj.CoreCompileInputs.cache
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.csproj.CopyComplete
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.exe
+C:\Users\franc\source\repos\AbovePremiere\obj\Release\AbovePremiere.pdb

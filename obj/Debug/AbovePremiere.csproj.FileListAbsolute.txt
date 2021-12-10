@@ -9,3 +9,8 @@ C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.exe
 C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.pdb
 C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.forms.FormInicio.resources
 C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.FormInicioSesion.resources
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\Newtonsoft.Json.dll
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\RestSharp.dll
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\Newtonsoft.Json.xml
+C:\Users\franc\source\repos\AbovePremiere\bin\Debug\RestSharp.xml
+C:\Users\franc\source\repos\AbovePremiere\obj\Debug\AbovePremiere.csproj.CopyComplete
